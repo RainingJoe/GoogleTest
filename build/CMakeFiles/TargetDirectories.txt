@@ -1,0 +1,4 @@
+/home/raining/Learning/GoogleTest/build/CMakeFiles/rebuild_cache.dir
+/home/raining/Learning/GoogleTest/build/CMakeFiles/edit_cache.dir
+/home/raining/Learning/GoogleTest/build/CMakeFiles/test.dir
+/home/raining/Learning/GoogleTest/build/CMakeFiles/MyTests.dir
